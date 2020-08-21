@@ -20,7 +20,7 @@ Si prop es así, "tracks"pero el álbum no tiene una "tracks"propiedad, cree una
 Si prop está "tracks"y value no está vacío ( ""), empuje value hacia el final de la tracks matriz 
 existente del álbum .
 
-Si value está vacío ( ""), borra la proppropiedad dada del álbum.
+Si value está vacío ( ""), borra la proppropiedad dada del álbum
 
 */
 
