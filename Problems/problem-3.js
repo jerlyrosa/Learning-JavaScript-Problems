@@ -17,18 +17,14 @@ Output: 4
 */
 
 
-let searchInsert = (nums, target)=> {
-    for(let i =0; i <  nums.length; i++ ){
-       if( nums[i] === target || nums[i] > target){
-        return console.log(i);
-        i = nums.length;
+let searchInsert = (arr, k)=> {
+    for(let i =0; i <  arr.length; i++ ){
+       if( arr[i] >= k ){
+         return console.log(i);
+       } else{
+             arr.push(k);
        }
-       else{
-           nums.push(target);
-       }
-    }
-    
+    } ;  
 };
 
-
-searchInsert([1,3,5,6],12);
+searchInsert([1,3,5,6],2);

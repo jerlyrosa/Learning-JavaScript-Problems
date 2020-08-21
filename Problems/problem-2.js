@@ -14,14 +14,11 @@ return [0, 1].
 var twoSum = function(nums,target) {
     for(let i = 0; i < nums.length; i++ ){
         for(let j = i + 1; j < nums.length; j++){
-                 if( nums[j] == target - nums[i]){   
-                var resul = console.log ([j,i]);  
-                i = nums.length;
-                j = nums.length;
-            }
-            
+             if( nums[j] == target - nums[i]){   
+                return console.log ([j,i]);  
+            }     
         }
-    } 
+    } ;
 };
 
 twoSum([2,6,11,15],8);
