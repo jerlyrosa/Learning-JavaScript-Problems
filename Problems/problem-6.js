@@ -1,3 +1,5 @@
+// #100DaysOfCode 6/100
+
 // Ecriba una función multiplyAll para que devuelva el producto de todos los números en las submatrices 
 // de arr.
 
