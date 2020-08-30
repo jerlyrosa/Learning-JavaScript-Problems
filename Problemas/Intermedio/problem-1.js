@@ -1,5 +1,3 @@
-// #100DaysOfCode 1/100
-
 
 /*Tenemos una serie de objetos que representan a diferentes personas en nuestras listas de contactos.
 

@@ -1,4 +1,9 @@
-var arr = [1,2, 2, 4,];
+// Problema para dar a entender o dar la idea de como funciona el metodo filter  teniendiendo en ciuenta
+// que ya sepas algo de su teoria
+
+
+
+var arr = [1,2, 2, 4,];// Array original
 
 const arrayFilter=(arr)=>{
 let result = arr.filter( (element, index, array) =>{

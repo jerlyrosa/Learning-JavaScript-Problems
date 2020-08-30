@@ -1,4 +1,4 @@
-// #100DaysOfCode 2/100
+
 
 /*Dada una matriz de enteros, devuelve índices de los dos números de modo que sumen un objetivo específico.
 Puede suponer que cada entrada tendría exactamente una solución y no puede usar el mismo elemento dos veces.
