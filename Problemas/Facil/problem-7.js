@@ -1,5 +1,5 @@
-// Problema para dar a entender o dar la idea de como funciona el metodo filter  teniendiendo en ciuenta
-// que ya sepas algo de su teoria
+// Problema para dar a entender o dar la idea de como funciona el metodo filter  teniendiendo en cuenta
+// que ya sabes algo de su  parte teorica.
 
 
 
