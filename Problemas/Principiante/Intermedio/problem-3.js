@@ -14,7 +14,7 @@
 // Todos los elementos de la matriz son del tipo bool ( trueo false).
 
 const  countTrue= (arr)=> {
-     const a = arr.reduce((acc, el) =>el === true ? acc++:, 0);
+     const a = arr.reduce((acc, el) =>{ },0);
       console.log(a)
 }
 
