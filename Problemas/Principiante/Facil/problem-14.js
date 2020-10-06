@@ -4,7 +4,7 @@
 
 const miFuncion =(str)=>{
    if (typeof(str) === 'string') return str.length;
-   else return `Tu valor de entra es un ${typeof(str)} y pido un cadena`;
+   else return `Tu valor de entrada es un ${typeof(str)} y pido un cadena`;
 }
 
 
